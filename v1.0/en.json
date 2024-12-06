@@ -17,7 +17,7 @@
   "UP_SUBTITLE": "A platform that will assist with decision-making in urban transportation and transformation",
   "UP_CONTENT": "In recent years, with the population and size of cities increasing exponentially, transportation has become even more important. The need for more efficient mobility solutions has been met with a variety of new concepts like sharing vehicles, electric scooters for rent, and even disruptive start-ups like Uber or Cabify, which are causing a stir with previously used models. However, such new models are putting public administrations in a challenging situation. The EU-funded URBANITE project aims to develop a solution that collects and analyses data, that combined with AI, can assist public administrations in policy-related decisions concerning urban transformation caused by these new transportation and business models. URBANITE focuses also on social aspects, by analyzing stakeholders’ trust in technologies aiding decision-making.",
   "OBJ_TITLE": "Objects",
-  "OBJ_CONTENT": "Cities are facing a revolution in urban mobility. Emerging start-ups are offering innovative mobility solutions to satisfy the demand of the growing population, both living or moving into the cities every day. We are moving from the concept of owning to sharing a vehicle; from using public transport services to moving around with a hop on/off bike or electric scooter; disruptive start-ups (Uber, Cabify) are shaking up traditionally established business models... But this innovation is also bringing up unforeseen consequences that public administrations need to manage. Electric scooters driven in pedestrian areas are posing safety risks and even pedestrian kills; piles of broken bikes are laying around in streets; protests and strikes by taxi drivers; electric charge points need to coexist with the growing demand for public parking spaces. It is in this new context that public administrations need means to help them understand this new scenario, supporting them in making policy–related decisions and predicting eventualities. There is a need of a platform that can harvest, fuse and curate data from heterogeneous sources, that can extract knowledge to help in the decision-making processes and simulation of solutions to anticipate behaviours and delimit unforeseen consequences. Besides, such intelligent platform can foster cross-departmental collaboration by eradicating internal silos. URBANITE will analyse the impact, trust and attitudes of civil servants, citizens and other stakeholders with respect to the integration of disruptive technologies such as AI, DSS, big data analytics and predictive algorithms in a data–driven decision-making process. To this end, URBANITE will provide recommendations, pathways and toolkits (both ICT-based such as data management platform and DSS, and non-ICT such as co-creation activities and a repository of social-related assets) for city managers. Results will be validated in 4 real use cases: Amsterdam, Bilbao, Helsinki and Messina."
+  "OBJ_CONTENT": "Cities are facing a revolution in urban mobility. Emerging start-ups are offering innovative mobility solutions to satisfy the demand of the growing population, both living or moving into the cities every day. We are moving from the concept of owning to sharing a vehicle; from using public transport services to moving around with a hop on/off bike or electric scooter; disruptive start-ups (Uber, Cabify) are shaking up traditionally established business models... But this innovation is also bringing up unforeseen consequences that public administrations need to manage. Electric scooters driven in pedestrian areas are posing safety risks and even pedestrian kills; piles of broken bikes are laying around in streets; protests and strikes by taxi drivers; electric charge points need to coexist with the growing demand for public parking spaces. It is in this new context that public administrations need means to help them understand this new scenario, supporting them in making policy–related decisions and predicting eventualities. There is a need of a platform that can harvest, fuse and curate data from heterogeneous sources, that can extract knowledge to help in the decision-making processes and simulation of solutions to anticipate behaviours and delimit unforeseen consequences. Besides, such intelligent platform can foster cross-departmental collaboration by eradicating internal silos. URBANITE will analyse the impact, trust and attitudes of civil servants, citizens and other stakeholders with respect to the integration of disruptive technologies such as AI, DSS, big data analytics and predictive algorithms in a data–driven decision-making process. To this end, URBANITE will provide recommendations, pathways and toolkits (both ICT-based such as data management platform and DSS, and non-ICT such as co-creation activities and a repository of social-related assets) for city managers. Results will be validated in 4 real use cases: Amsterdam, Bilbao, Helsinki and Messina.",
   "ADD_CATALOGUE": "Add Catalogue",
   "MODIFY_CATALOGUE": "Modify Catalogue",
   "IMAGE": "Image",
@@ -137,7 +137,7 @@
   "CATALOGUES_COUNTRY": "Country",
   "CATALOGUES_DATASETS": "Datasets",
   "CATALOGUES_LAST_UPDATE": "Last Update",
-  "CATALOGUES_CATEGORY": "Category"
+  "CATALOGUES_CATEGORY": "Category",
   "DATALET_SEARCH_TITLE": "Search over",
   "DATALET_DATASETS_FROM": "dataset from",
   "DATALET_CATALOGUES": "catalogues",
@@ -176,11 +176,27 @@
   "HOME_CATEGORIES": "Categories",
   "NOT_FOUND_TITLE": "404 Page Not Found",
   "NOT_FOUND_SUB_TITLE": "The page you were looking for doesn't exist",
-  "NOT_FOUND_BUTTON": "Take me home"
-
-
-
-
-
-
+  "NOT_FOUND_BUTTON": "Take me home",
+  "MQA_TITLE": "Metadata Quality Validator",
+  "MQA_DESCRIPTION": "Select a Catalog or a Dataset by uploading it as RDF file or by entering the URL that identifies it and obtain the score or evaluation metrics relating to it, according to the",
+  "MQA_DCAT_AP_STANDARD": "DCAT-AP standard",
+  "MQA_VALID_SUBMISSION": "to ensure that the Catalogue or Dataset is valid for its submission in the",
+  "MQA_EUROPEAN_DATA_PORTAL": "European Data Portal -",
+  "MQA_ALGORITHM_FOLLOWS": "The algorithm follows the",
+  "MQA_METHODOLOGY": "methodology",
+  "MQA_SET_OUT": "set out by the European data portal.",
+  "MQA_DOWNLOAD_RDF": "If it is a Catalogue already federated in Idra, it is possible to download the Catalogue RDF file directly from Idra dashboard by going to the Administration menu, then to the Manage Catalogues page, and for the desired Catalogue press the Download Dump button, which will download the file.",
+  "MQA_SUBMIT_FILE": "Submit with file",
+  "MQA_RDF_FILE": "RDF file",
+  "MQA_SEND": "Send",
+  "MQA_SUBMIT_URL": "Submit with url",
+  "MQA_RDF_FILE_URL": "RDF file url",
+  "MQA_CATALOGUE_DATASETS": "Catalogue & Datasets",
+  "MQA_SEARCH": "Search",
+  "MQA_SHOW_SCORE": "Show Score",
+  "MQA_SHOW_METRICS": "Show Metrics",
+  "MQA_OVERALL_SCORE": "Overall Score",
+  "MQA_OUT_OF": "out of",
+  "MQA_CATALOGUE_SCORE": "Catalogue score",
+  "MQA_DATASET_METRICS": "Dataset metrics"
 }
