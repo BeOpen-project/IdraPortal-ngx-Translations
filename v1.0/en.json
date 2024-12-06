@@ -2,6 +2,17 @@
   "fileVersion": {
     "version": "1.0"
   },
+  "SERVICES": "SERVICES",
+  "Home": "Home",
+  "Sparql": "Sparql",
+  "Data Catalogue": "Data Catalogue",
+  "Catalogues": "Catalogues",
+  "Statistics": "Statistics",
+  "Mqa Scoring": "Mqa Scoring",
+  "Administration": "Administration",
+  "Data Catalogue Administration": "Data Catalogue Administration",
+  "Datalet Administration": "Datalet Administration",
+  "Configurations Administration": "Configurations Administration"
 
  
 }
