@@ -198,5 +198,6 @@
   "MQA_OVERALL_SCORE": "Overall Score",
   "MQA_OUT_OF": "out of",
   "MQA_CATALOGUE_SCORE": "Catalogue score",
-  "MQA_DATASET_METRICS": "Dataset metrics"
+  "MQA_DATASET_METRICS": "Dataset metrics",
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "The value can be a boolean, a list of http answer codes with relative percentage of occurrence, or the percentage of correct metrics"
 }
