@@ -257,5 +257,9 @@
     "REGIONS": "Regions",
     "SOCIETY": "Society",
     "TECHNOLOGY": "Technology",
-    "TRANSPORTATION": "Transportation"
+    "TRANSPORTATION": "Transportation",
+    "NO_DESCRIPTION": "No descriptions available",
+    "TITLE": "Title",
+    "PUBLISHER": "Publisher",
+    "LICENSE": "License"
 }
