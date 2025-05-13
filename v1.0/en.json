@@ -261,5 +261,8 @@
     "NO_DESCRIPTION": "No descriptions available",
     "TITLE": "Title",
     "PUBLISHER": "Publisher",
-    "LICENSE": "License"
+    "LICENSE": "License",
+    "DIALOGS_CANCEL": "Cancel",
+    "SELECT_THEMES": "Select themes",
+    "SELECT_FREQUENCY": "Select frequency"
 }
