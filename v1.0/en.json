@@ -308,4 +308,14 @@
     "THEMES_TOOLTIP": "EU Categories that classify the dataset content",
     "FREQUENCY_TOOLTIP": "The frequency with which this dataset gets updated",
     "SPATIAL_TOOLTIP": "Geographic location that the dataset covers"
+    "DIALOG_DELETE_SELECTED_DATASETS_MESSAGE": "Are you sure you want to delete {{datasetCount}} selected datasets with {{distributionCount}} associated distributions?",
+    "TOAST_DELETION_IN_PROGRESS": "Deleting datasets and distributions...",
+    "TOAST_PLEASE_WAIT": "Please wait",
+    "TOAST_DELETED_DATASETS_SUCCESS": "Successfully deleted {{count}} datasets",
+    "TOAST_DELETE_DATASETS_FAILED": "Failed to delete any datasets",
+    "TOAST_DELETE_DATASETS_PARTIAL": "Deleted {{successCount}} datasets, but failed to delete {{errorCount}}",
+    "TOAST_NO_DATASETS_SELECTED": "No datasets selected for deletion",
+    "TOAST_WARNING": "Warning",
+    "TOAST_ERROR": "Error",
+    "TOAST_PARTIAL_SUCCESS": "Partial Success"
 }
