@@ -234,7 +234,7 @@
     "KEYWORDS": "Parole Chiave",
     "TYPE_KEYWORD": "Inserisci parola chiave",
     "CONTACT_POINTS": "Contatti",
-    "TYPE_CONTACT_POINT": "Inserisci i contatti delle figure professionali rilevanti",
+    "TYPE_CONTACT_POINT": "Inserisci i contatti",
     "CREATOR": "Creatore",
     "THEMES": "Temi",
     "FREQUENCY": "Frequenza",
@@ -298,5 +298,14 @@
     "TOAST_CONTACT_POINTS_LIMIT_TITLE": "Limite di contatti",
     "TOAST_DUPLICATE_DISTRIBUTION": "Impossibile creare la distribuzione \"{{title}}\". Una distribuzione con lo stesso ID esiste già nel sistema.",
     "TOAST_DUPLICATE_DISTRIBUTION_TITLE": "Distribuzione Duplicata",
-    "TOAST_SPATIAL_CLEARED": "I dati geografici sono stati cancellati"
+    "TOAST_SPATIAL_CLEARED": "I dati geografici sono stati cancellati",
+    "NAME_TOOLTIP": "Nome della persona responsabile del dataset",
+    "VERSION_TOOLTIP": "Il numero di versione o l'identificativo del dataset",
+    "KEYWORDS_TOOLTIP": "Termini descrittivi che potrebbero aiutare altri utenti a scoprire il dataset",
+    "CONTACT_POINTS_TOOLTIP": "Informazioni di contatto per richieste relative al dataset",
+    "PUBLISHER_TOOLTIP": "Entità responsabile della pubblicazione del dataset",
+    "CREATOR_TOOLTIP": "Entità principalmente responsabile della creazione del dataset",
+    "THEMES_TOOLTIP": "Categorie UE che classificano il contenuto del dataset",
+    "FREQUENCY_TOOLTIP": "La frequenza con cui questo dataset viene aggiornato",
+    "SPATIAL_TOOLTIP": "Posizione geografica che il dataset copre"
   }
