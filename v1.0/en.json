@@ -298,5 +298,15 @@
     "TOAST_CONTACT_POINTS_LIMIT_TITLE": "Contacts Limit",
     "TOAST_DUPLICATE_DISTRIBUTION": "Cannot create distribution \"{{title}}\". A distribution with the same ID already exists in the system.",
     "TOAST_DUPLICATE_DISTRIBUTION_TITLE": "Duplicate Distribution",
-    "TOAST_SPATIAL_CLEARED": "Spatial data has been cleared"
+    "TOAST_SPATIAL_CLEARED": "Spatial data has been cleared",
+    "DIALOG_DELETE_SELECTED_DATASETS_MESSAGE": "Are you sure you want to delete {{datasetCount}} selected datasets with {{distributionCount}} associated distributions?",
+    "TOAST_DELETION_IN_PROGRESS": "Deleting datasets and distributions...",
+    "TOAST_PLEASE_WAIT": "Please wait",
+    "TOAST_DELETED_DATASETS_SUCCESS": "Successfully deleted {{count}} datasets",
+    "TOAST_DELETE_DATASETS_FAILED": "Failed to delete any datasets",
+    "TOAST_DELETE_DATASETS_PARTIAL": "Deleted {{successCount}} datasets, but failed to delete {{errorCount}}",
+    "TOAST_NO_DATASETS_SELECTED": "No datasets selected for deletion",
+    "TOAST_WARNING": "Warning",
+    "TOAST_ERROR": "Error",
+    "TOAST_PARTIAL_SUCCESS": "Partial Success"
 }
