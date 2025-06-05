@@ -430,5 +430,11 @@
   "DIALOG_REMOVE_DISTRIBUTION": "Remove Distribution",
   "DIALOG_REMOVE_DISTRIBUTION_MESSAGE": "Are you sure you want to remove \"{{title}}\" from the list? The distribution will not be deleted from the system.",
   "DATASET_ERROR": "Dataset Error",
-  "DATASET_CREATION_ERROR": "Failed to {{operation}} dataset: {{errorMessage}}"
+  "DATASET_CREATION_ERROR": "Failed to {{operation}} dataset: {{errorMessage}}",
+  "CREATE_DATA_SOURCES_DATASET": "Crea Dataset Data Source",
+  "TOAST_MODEL_TOOL_ADDED_TITLE": "Modello/Strumento Aggiunto",
+  "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modello/Strumento Contrassegnato per Eliminazione",
+  "TOAST_MODEL_TOOL_MARKED_DELETION": "Modello/Strumento \"{{title}}\" è stato contrassegnato per l'eliminazione.",
+  "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modello/Strumento Contrassegnato per Eliminazione",
+  "TOAST_MODEL_TOOL_MARKED_DELETION": "Modello/Strumento \"{{title}}\" è stato contrassegnato per l'eliminazione."
 }
