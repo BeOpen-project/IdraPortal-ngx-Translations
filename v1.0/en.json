@@ -436,5 +436,9 @@
   "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Model/Tool Marked for Deletion",
   "TOAST_MODEL_TOOL_MARKED_DELETION": "Model/Tool \"{{title}}\" has been marked for deletion.",
   "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Model/Tool Marked for Deletion",
-  "TOAST_MODEL_TOOL_MARKED_DELETION": "Model/Tool \"{{title}}\" has been marked for deletion."
+  "TOAST_MODEL_TOOL_MARKED_DELETION": "Model/Tool \"{{title}}\" has been marked for deletion.",
+  "URL_REQUIRED": "URL required",
+  "ADD_RESOURCES": "Add Resources",
+  "NO_RESOURCES": "No Resources",
+  "RESOURCE_LIST": "Resource List"
 }
