@@ -441,5 +441,7 @@
     "URL_REQUIRED": "URL richiesto",
     "ADD_RESOURCES": "Aggiungi risorse",
     "NO_RESOURCES": "Nessuna Risorsa",
-    "RESOURCE_LIST": "Elenco Risorse"
+    "RESOURCE_LIST": "Elenco Risorse",
+    "HOME_SEARCH": "Cerca",
+    "PREVIEW_SIZE_TOO_LARGE": "Anteprima troppo grande per essere visualizzata. Scarica il file per visualizzarlo."
   }

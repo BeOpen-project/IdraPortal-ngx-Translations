@@ -440,5 +440,7 @@
   "URL_REQUIRED": "URL required",
   "ADD_RESOURCES": "Add Resources",
   "NO_RESOURCES": "No Resources",
-  "RESOURCE_LIST": "Resource List"
+  "RESOURCE_LIST": "Resource List",
+  "HOME_SEARCH": "Search",
+  "PREVIEW_SIZE_TOO_LARGE": "Preview size too large. Please download the file to view it."
 }
