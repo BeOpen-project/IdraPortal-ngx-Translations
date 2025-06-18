@@ -439,6 +439,7 @@
   "ADD_RESOURCES": "Agregar Recursos",
   "NO_RESOURCES": "Sin Recursos",
   "RESOURCES_LIST": "Lista de Recursos",
+  "RESOURCE_TYPE": "Tipo de Recurso",
   "HOME_SEARCH": "Buscar",
   "PREVIEW_SIZE_TOO_LARGE": "Tamaño de vista previa demasiado grande. Por favor, descargue el archivo para verlo."
 }

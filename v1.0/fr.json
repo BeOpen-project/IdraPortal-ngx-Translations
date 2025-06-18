@@ -441,6 +441,7 @@
     "ADD_RESOURCES": "Ajouter des ressources",
     "NO_RESOURCES": "Aucune ressource",
     "RESOURCES_LIST": "Liste des ressources",
+    "RESOURCE_TYPE": "Type de ressource",
     "HOME_SEARCH": "Rechercher",
     "PREVIEW_SIZE_TOO_LARGE": "Taille de l'aperçu trop grande. Veuillez télécharger le fichier pour le visualiser."
   }

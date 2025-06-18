@@ -439,6 +439,7 @@
   "ADD_RESOURCES": "Pridėti išteklius",
   "NO_RESOURCES": "Nėra išteklių",
   "RESOURCES_LIST": "Išteklių sąrašas",
+  "RESOURCE_TYPE": "Išteklių tipas",
   "HOME_SEARCH": "Paieška",
   "PREVIEW_SIZE_TOO_LARGE": "Peržiūros dydis per didelis. Atsisiųskite failą, kad galėtumėte jį peržiūrėti."
 }
