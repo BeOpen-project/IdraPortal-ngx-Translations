@@ -442,6 +442,7 @@
     "NO_RESOURCES": "Aucune ressource",
     "RESOURCES_LIST": "Liste des ressources",
     "RESOURCE_TYPE": "Type de ressource",
+    "SELECT_RESOURCE_TYPE": "Sélectionner le type de ressource",
     "HOME_SEARCH": "Rechercher",
     "PREVIEW_SIZE_TOO_LARGE": "Taille de l'aperçu trop grande. Veuillez télécharger le fichier pour le visualiser."
   }

@@ -443,6 +443,7 @@
     "NO_RESOURCES": "Nessuna Risorsa",
     "RESOURCES_LIST": "Elenco Risorse",
     "RESOURCE_TYPE": "Tipo di Risorsa",
+    "SELECT_RESOURCE_TYPE": "Seleziona Tipo di Risorsa",
     "HOME_SEARCH": "Cerca",
     "PREVIEW_SIZE_TOO_LARGE": "Anteprima troppo grande per essere visualizzata. Scarica il file per visualizzarlo."
   }

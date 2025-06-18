@@ -440,6 +440,7 @@
   "NO_RESOURCES": "Nėra išteklių",
   "RESOURCES_LIST": "Išteklių sąrašas",
   "RESOURCE_TYPE": "Išteklių tipas",
+  "SELECT_RESOURCE_TYPE": "Pasirinkti išteklių tipą",
   "HOME_SEARCH": "Paieška",
   "PREVIEW_SIZE_TOO_LARGE": "Peržiūros dydis per didelis. Atsisiųskite failą, kad galėtumėte jį peržiūrėti."
 }
