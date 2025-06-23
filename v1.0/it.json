@@ -134,7 +134,7 @@
     "CATALOGUES_SHOW_DATASETS": "Mostra datasets",
     "CATALOGUES_DATASETS": "Datasets",
     "CATALOGUES_LAST_UPDATE": "Ultimo aggiornamento",
-    "DATALET_SEARCH_TITLE": "Cerca in oltre",
+    "DATALET_SEARCH_TITLE": "Cerca in",
     "DATALET_DATASETS_FROM": "Datasets da",
     "DATALET_CATALOGUES": "cataloghi",
     "DATALET_DATASETS_FOUND": "Datasets trovati",
@@ -142,7 +142,7 @@
     "DATALET_SHOW_ALL": "Mostra tutto",
     "DATALET_SHOW_TOP_10": "Mostra i primi 10",
 
-    "HOME_SEARCH_TITLE": "Cerca in oltre",
+    "HOME_SEARCH_TITLE": "Cerca in",
     "HOME_DATASETS_FROM": "datasets da",
     "HOME_CATALOGUES": "cataloghi",
     "HOME_INSERT_KEYWORDS": "Inserisci parole chiave separate da virgole",
