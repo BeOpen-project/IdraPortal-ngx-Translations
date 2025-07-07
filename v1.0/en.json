@@ -444,5 +444,7 @@
   "RESOURCE_TYPE": "Resource Type",
   "SELECT_RESOURCE_TYPE": "Select Resource Type",
   "HOME_SEARCH": "Search",
-  "PREVIEW_SIZE_TOO_LARGE": "Preview size too large. Please download the file to view it."
+  "PREVIEW_SIZE_TOO_LARGE": "Preview size too large. Please download the file to view it.",
+  "NO_MODEL_TOOLS_FOUND": "No model/tools found matching your filters",
+  "NO_DATA_SOURCES_FOUND": "No data sources found"
 }

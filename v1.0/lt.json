@@ -442,5 +442,7 @@
   "RESOURCE_TYPE": "Išteklių tipas",
   "SELECT_RESOURCE_TYPE": "Pasirinkti išteklių tipą",
   "HOME_SEARCH": "Paieška",
-  "PREVIEW_SIZE_TOO_LARGE": "Peržiūros dydis per didelis. Atsisiųskite failą, kad galėtumėte jį peržiūrėti."
+  "PREVIEW_SIZE_TOO_LARGE": "Peržiūros dydis per didelis. Atsisiųskite failą, kad galėtumėte jį peržiūrėti.",
+  "NO_MODEL_TOOLS_FOUND": "Nerasta modelių/įrankių, atitinkančių jūsų filtrus",
+  "NO_DATA_SOURCES_FOUND": "Nerasta duomenų šaltinių, atitinkančių jūsų filtrus"
 }

@@ -444,5 +444,7 @@
   "RESOURCE_TYPE": "Ressourcentyp",
   "SELECT_RESOURCE_TYPE": "Ressourcentyp auswählen",
   "HOME_SEARCH": "Suche",
-  "PREVIEW_SIZE_TOO_LARGE": "Vorschaugröße zu groß. Bitte laden Sie die Datei herunter, um sie anzuzeigen."
+  "PREVIEW_SIZE_TOO_LARGE": "Vorschaugröße zu groß. Bitte laden Sie die Datei herunter, um sie anzuzeigen.",
+  "NO_MODEL_TOOLS_FOUND": "Keine Modelle/Werkzeuge gefunden, die Ihren Filtern entsprechen",
+  "NO_DATA_SOURCES_FOUND": "Keine Datenquellen gefunden"
 }
