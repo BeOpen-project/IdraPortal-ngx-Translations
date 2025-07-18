@@ -437,8 +437,6 @@
     "TOAST_MODEL_TOOL_ADDED_TITLE": "Modello/Strumento Aggiunto",
     "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modello/Strumento Contrassegnato per Eliminazione",
     "TOAST_MODEL_TOOL_MARKED_DELETION": "Modello/Strumento \"{{title}}\" è stato contrassegnato per l'eliminazione.",
-    "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modello/Strumento Contrassegnato per Eliminazione",
-    "TOAST_MODEL_TOOL_MARKED_DELETION": "Modello/Strumento \"{{title}}\" è stato contrassegnato per l'eliminazione.",
     "URL_REQUIRED": "URL richiesto",
     "ADD_RESOURCES": "Aggiungi risorse",
     "NO_RESOURCES": "Nessuna Risorsa",

@@ -436,8 +436,6 @@
   "TOAST_MODEL_TOOL_ADDED_TITLE": "Modelo/Ferramenta Adicionado",
   "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modelo/Ferramenta Marcado para Exclusão",
   "TOAST_MODEL_TOOL_MARKED_DELETION": "Modelo/Ferramenta \"{{title}}\" foi marcado para exclusão.",
-  "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modelo/Ferramenta Marcado para Exclusão",
-  "TOAST_MODEL_TOOL_MARKED_DELETION": "Modelo/Ferramenta \"{{title}}\" foi marcado para exclusão.",
   "URL_REQUIRED": "URL obrigatória",
   "ADD_RESOURCES": "Adicionar Recursos",
   "NO_RESOURCES": "Sem Recursos",

@@ -436,8 +436,6 @@
   "TOAST_MODEL_TOOL_ADDED_TITLE": "Modell/Werkzeug hinzugefügt",
   "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modell/Werkzeug zur Löschung markiert",
   "TOAST_MODEL_TOOL_MARKED_DELETION": "Modell/Werkzeug \"{{title}}\" wurde zur Löschung markiert.",
-  "TOAST_MODEL_TOOL_MARKED_DELETION_TITLE": "Modell/Werkzeug zur Löschung markiert",
-  "TOAST_MODEL_TOOL_MARKED_DELETION": "Modell/Werkzeug \"{{title}}\" wurde zur Löschung markiert.",
   "URL_REQUIRED": "URL erforderlich",
   "ADD_RESOURCES": "Ressourcen hinzufügen",
   "NO_RESOURCES": "Keine Ressourcen",
