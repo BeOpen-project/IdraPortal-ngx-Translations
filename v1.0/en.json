@@ -169,6 +169,7 @@
   "HOME_MAX_RESULTS_PER_PAGE": "Max results per page",
   "HOME_TAGS": "Tags",
   "HOME_CATEGORIES": "Categories",
+  "HOME_IS_HVD": "High Value Dataset",
   "NOT_FOUND_TITLE": "404 Page not found",
   "NOT_FOUND_SUB_TITLE": "The page you were looking for does not exist",
   "NOT_FOUND_BUTTON": "Back to home",
