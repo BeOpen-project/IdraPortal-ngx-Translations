@@ -444,5 +444,15 @@
   "HOME_SEARCH": "Søg",
   "PREVIEW_SIZE_TOO_LARGE": "Preview er for stor. Download filen for at åbne den.",
   "NO_MODEL_TOOLS_FOUND": "Ingen modeller/værktøjer fundet, der matcher dine filtre",
-  "NO_DATA_SOURCES_FOUND": "Ingen datakilder fundet"
+  "NO_DATA_SOURCES_FOUND": "Ingen datakilder fundet",
+  "UPDATE": "Opdater",
+  "ADMIN_SPARQL_ACTIONS": "Handlinger",
+  "ADMIN_SPARQL_SEARCH_LABEL": "Søg",
+  "TOGGLE_FILTERS": "Vis filtre",
+  "TOAST_MODEL_TOOL_ADDED": "Model/værktøj tilføjet med succes",
+  "TOAST_MODEL_TOOL_REMOVED_TITLE": "Model/værktøj fjernet",
+  "TOAST_MODEL_TOOL_REMOVED": "Model/værktøj er blevet fjernet med succes",
+  "CATALOGUES_TITLE": "Kataloger",
+  "CATALOGUE_LIST_NAME": "Navn",
+  "CATALOGUE_LIST_SEARCH_LABEL": "Søg"
 }

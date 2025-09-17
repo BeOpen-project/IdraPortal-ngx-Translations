@@ -441,5 +441,16 @@
   "HOME_SEARCH": "Hledat",
   "PREVIEW_SIZE_TOO_LARGE": "Náhled je příliš velký. Stáhněte si soubor pro zobrazení.",
   "NO_MODEL_TOOLS_FOUND": "Pro zadané filtry nebyly nalezeny žádné modely/nástroje",
-  "NO_DATA_SOURCES_FOUND": "Pro zadané filtry nebyly nalezeny žádné zdroje dat"
+  "NO_DATA_SOURCES_FOUND": "Pro zadané filtry nebyly nalezeny žádné zdroje dat",
+  "UPDATE": "Aktualizovat",
+  "ADMIN_SPARQL_ACTIONS": "Akce",
+  "ADMIN_SPARQL_SEARCH_LABEL": "Hledat",
+  "TOGGLE_FILTERS": "Zobrazit filtry",
+  "TOAST_MODEL_TOOL_ADDED": "Model/Nástroj byl úspěšně přidán",
+  "TOAST_MODEL_TOOL_REMOVED_TITLE": "Model/Nástroj odstraněn",
+  "TOAST_MODEL_TOOL_REMOVED": "Model/Nástroj byl úspěšně odstraněn",
+  "CATALOGUES_TITLE": "Katalogy",
+  "CATALOGUE_LIST_NAME": "Název",
+  "CATALOGUE_LIST_TYPE": "Typ",
+  "CATALOGUE_LIST_SEARCH_LABEL": "Hledat"
 }
