@@ -453,5 +453,6 @@
   "CATALOGUE_LIST_NAME": "Nimi",
   "CATALOGUE_LIST_TYPE": "Tüüp",
   "CATALOGUE_LIST_MODIFY_CATALOGUE": "Muuda katalooge",
-  "CATALOGUE_LIST_SEARCH_LABEL": "Otsi kataloogi"
+  "CATALOGUE_LIST_SEARCH_LABEL": "Otsi kataloogi",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Lisa kataloog"
 }

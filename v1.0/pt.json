@@ -460,5 +460,6 @@
   "CATALOGUE_LIST_NAME": "Nome",
   "CATALOGUE_LIST_TYPE": "Tipo",
   "CATALOGUE_LIST_MODIFY_CATALOGUE": "Editar catálogo",
-  "CATALOGUE_LIST_SEARCH_LABEL": "Buscar catálogo"
+  "CATALOGUE_LIST_SEARCH_LABEL": "Buscar catálogo",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Adicionar catálogo"
 }

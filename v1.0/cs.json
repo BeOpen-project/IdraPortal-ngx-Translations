@@ -452,5 +452,6 @@
   "CATALOGUES_TITLE": "Katalogy",
   "CATALOGUE_LIST_NAME": "Název",
   "CATALOGUE_LIST_TYPE": "Typ",
-  "CATALOGUE_LIST_SEARCH_LABEL": "Hledat katalog"
+  "CATALOGUE_LIST_SEARCH_LABEL": "Hledat katalog",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Přidat katalog"
 }

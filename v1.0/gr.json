@@ -460,5 +460,6 @@
   "CATALOGUE_LIST_NAME": "Όνομα",
   "CATALOGUE_LIST_TYPE": "Τύπος",
   "CATALOGUE_LIST_MODIFY_CATALOGUE": "Επεξεργασία καταλόγου",
-  "CATALOGUE_LIST_SEARCH_LABEL": "Αναζήτηση καταλόγου"
+  "CATALOGUE_LIST_SEARCH_LABEL": "Αναζήτηση καταλόγου",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Προσθήκη καταλόγου"
 }
